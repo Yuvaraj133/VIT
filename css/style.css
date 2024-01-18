@@ -490,6 +490,7 @@ background: linear-gradient(90deg, rgba(0,0,0,0.829656862745098) 0%, rgba(30,211
 .about .content p {
   font-size: 1.5rem;
   line-height: 2;
+  text-aling:justify;
   color: #777;
   padding: 1rem 0;
 }
